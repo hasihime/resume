@@ -39,6 +39,8 @@
 
 ### Client
   - Vue js
+  - HTML5, CSS
+  -JavaScript, JQuery
   
   
 ### Server
