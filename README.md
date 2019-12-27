@@ -36,22 +36,29 @@
 - Python
 - Bash
 
-
-### Client
-  - Vue js
-  - HTML5, CSS
-  -JavaScript, JQuery
+### WEB	Front	
+  - HTML
+  - CSS3
+	- JavaScript
+  - Jquery
   
-  
-### Server
-클라이언트에 필요한 기술을 테스트하고 검증할 수 있을정도의 서버 스킬을 가지고 있습니다.
-- SpringFramework
-- MYSQL
-- Linux(CentOS, Ubuntu)
-- AWS 
+### Back-End	
+  - 서버프로그래밍(Servlet,JSP,Session/Cookie)
+	-	MVC 아키텍쳐
 
+### FrameWork	
+  - Spring
+  - Spring Boot
+  - MyBaris
+  - Micro Service
+  
+### DataBase
+  - MYSQL
+  
 
 ### ETC
+- Linux(CentOS, Ubuntu)
+- AWS 
 - IDS : Suricata
 - 보안장비운용 : Tipping Point IPS 
 - 커뮤니케이션 - Slack
