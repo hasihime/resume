@@ -7,7 +7,7 @@
 ## 자기소개
 
 - 이름: 오석빈
-- 
+
 
 죽기 전에 내가 꼭 가보고 싶은 곳들, 경험해보고 싶은 일들, 그것들을 꾸준히 해보자. 
 하나씩 하나씩. 이것저것 너무 고민하지 말고. 
@@ -26,6 +26,14 @@
 
 ## 학력
 - 가천대학교 컴퓨터공학과(2013 ~ 2019)
+
+## 프로젝트 경험
+- JAVA를 이용한 SafeFood 프로젝트 [시연 영상](https://www.youtube.com/watch?v=THgKJ4bbMeI)
+- 팀 기여도 : 50%
+- BackEnd DataBase인 MYSQL, SpringFramework 사용
+
+
+
 
 ## 사용 기술
 ### Programming
