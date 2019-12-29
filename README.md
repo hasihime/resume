@@ -18,6 +18,7 @@
 - LinkedIn: [https://www.linkedin.com/in/seokbin-oh-1028a019a/](https://www.linkedin.com/in/seokbin-oh-1028a019a/)
 
 ## 인턴경력
+
 - 네오위즈 (2018.06 ~ 2018.12) 
 - 소만사 (2019.02 ~ 2019.05)
 
