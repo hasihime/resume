@@ -13,6 +13,8 @@
 하나씩 하나씩. 이것저것 너무 고민하지 말고. 
 
 - 취미 : 달리기, 리듬게임, 글쓰기, 여행, 독서
+- 관심있게 읽은 책 : 객체지향의 사실과 오해
+
 - Email: osb330@naver.com
 - GitHub: [github.com/hasihime](https://github.com/hasihime)
 - LinkedIn: [https://www.linkedin.com/in/seokbin-oh-1028a019a/](https://www.linkedin.com/in/seokbin-oh-1028a019a/)
@@ -34,8 +36,6 @@
 - BackEnd DataBase인 MYSQL, SpringFramework 사용
 
 
-
-
 ## 사용 기술
 ### Programming
 - Java
@@ -50,7 +50,7 @@
   
 ### Back-End	
   - 서버프로그래밍(Servlet,JSP,Session/Cookie)
-	-	MVC 아키텍쳐
+  - MVC 아키텍쳐
 
 ### FrameWork	
   - Spring
