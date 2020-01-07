@@ -19,6 +19,9 @@
 - GitHub: [github.com/hasihime](https://github.com/hasihime)
 - LinkedIn: [https://www.linkedin.com/in/seokbin-oh-1028a019a/](https://www.linkedin.com/in/seokbin-oh-1028a019a/)
 
+<img src="img/gitlab_commit.PNG">
+
+
 ## 인턴경력
 
 - 네오위즈 (2018.06 ~ 2018.12) 
