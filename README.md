@@ -19,7 +19,11 @@
 - GitHub: [github.com/hasihime](https://github.com/hasihime)
 - LinkedIn: [https://www.linkedin.com/in/seokbin-oh-1028a019a/](https://www.linkedin.com/in/seokbin-oh-1028a019a/)
 
+Gitlab Contribution
+
 <img src="img/gitlab_commit.PNG">
+
+
 
 
 ## 인턴경력
