@@ -39,8 +39,12 @@ Gitlab Contribution
 
 ## 프로젝트 경험
 - JAVA를 이용한 SafeFood 프로젝트 [시연 영상](https://www.youtube.com/watch?v=THgKJ4bbMeI)
+  - 기간 : 2019.07~2019.11
   - 팀 기여도 : 50%
   - BackEnd DataBase인 MYSQL, SpringFramework 사용
+  
+ - Vue를 이용한 반응형 웹 프로젝트
+ - 기간 : 2020.01 ~
 
 ## 각종 IT 경험
  - 네이버 클라우드 사용 경험 [링크](https://github.com/hasihime/Ncloud)
