@@ -49,7 +49,7 @@ Gitlab Contribution
 ## 각종 IT 경험
  - 네이버 클라우드 사용 경험 [링크](https://github.com/hasihime/Ncloud)
  
- - ELK 서버 
+ - ELK 서버 구축
 
 ## 사용 기술
 ### Programming
