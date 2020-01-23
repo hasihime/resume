@@ -4,7 +4,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hasihime/resume.svg)
 ![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg)
 
-## 자기소개
+## 자기소개 
 
 - 이름: 오석빈
 
