@@ -13,7 +13,7 @@
 하나씩 하나씩. 이것저것 너무 고민하지 말고. 
 
 - 취미 : 달리기, 리듬게임, 글쓰기, 여행, 독서
-- 관심있게 읽은 책 : 객체지향의 사실과 오해
+- 관심있게 읽은 책 : 객체지향의 사실과 오해, 고전부 시리즈
 
 - Email: osb330@naver.com
 - GitHub: [github.com/hasihime](https://github.com/hasihime)
