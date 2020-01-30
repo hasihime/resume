@@ -44,11 +44,11 @@ Gitlab Contribution
   - BackEnd DataBase인 MYSQL, SpringFramework 사용
   
  - Vue를 이용한 반응형 웹 프로젝트
-  - 기간 : 2020.01 ~
-  - 팀 기여도 : ?%
-  - AWS 서버 구축. Firebase와 AWS 연동.
-  - AWS 서버에 올라간 Spring Controller https로 통신하게 함
-  - Mixedt content 에러 해결을 위한 cors 설정
+    - 기간 : 2020.01 ~
+    - 팀 기여도 : ?%
+    - AWS 서버 구축. Firebase와 AWS 연동.
+    - AWS 서버에 올라간 Spring Controller https로 통신하게 함
+    - Mixedt content 에러 해결을 위한 cors 설정
  
  
 
