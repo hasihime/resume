@@ -98,5 +98,5 @@ Gitlab Contribution
   - Solidity
 - Clean Code 
 
-- DID(Decentralized Identification)
+- DID(Decentralized Identification) 
 
