@@ -88,7 +88,7 @@ Gitlab Contribution
 - AWS 
 - IDS : Suricata
 - 보안장비운용 : Tipping Point IPS 
-- 커뮤니케이션 - Slack
+- 커뮤니케이션 - Slack 
 - 이슈관리 - Github / 
 - 버전관리 - Git/GitFlow를 애용합니다.
 
