@@ -34,8 +34,8 @@ url: https://cre8or-2a293.firebaseapp.com/
 
 
 #### test 계정
-id = test@test.com <br/>
-pw = test123 <br/>
+id = osb330@hanmail.net <br/>
+pw = asdasd <br/>
 
 ## 기술 스택
 <img src="../../img/Project/02VueProject/tech_stack.png ">
