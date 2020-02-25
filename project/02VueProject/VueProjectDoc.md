@@ -27,10 +27,10 @@
 url: https://cre8or-2a293.firebaseapp.com/
 
 - 대문
-<img src="./img/welcome.png ">
+<img src="../../img/Project/02VueProject/welcome.png ">
 
 - 메인 화면
-<img src="./img/title.png ">
+<img src="../../img/Project/02VueProject/title.png ">
 
 
 #### test 계정
@@ -38,7 +38,7 @@ id = test@test.com <br/>
 pw = test123 <br/>
 
 ## 기술 스택
-<img src="./img/tech_stack.png ">
+<img src="../../img/Project/02VueProject/tech_stack.png ">
 
 
 ## 기능 설명
