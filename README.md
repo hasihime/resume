@@ -40,7 +40,7 @@
   - BackEnd DataBase인 MYSQL, SpringFramework 사용
   
  - [Vue를 이용한 반응형 웹 프로젝트](./project/02VueProject/VueProjectDoc.md)
-    - 기간 : 2020.01 ~
+    - 기간 : 2020.01 ~ 2020.02(6주)
     - 팀 기여도 : 25%
     - AWS 서버 구축. Firebase와 AWS 연동.
     - AWS 서버에 올라간 Spring Controller https로 통신하게 함(사설키 인증)
