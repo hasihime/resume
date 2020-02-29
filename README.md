@@ -90,6 +90,8 @@
 - 이슈관리 - Github / 
 - 버전관리 - Git/GitFlow를 애용합니다.
 
+### algorithm
+
 ### TODO
 현재는 아래것들을 익히고 있습니다.
 - BlockChain
