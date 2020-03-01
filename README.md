@@ -20,6 +20,11 @@
 - LinkedIn: [https://www.linkedin.com/in/seokbin-oh-1028a019a/](https://www.linkedin.com/in/seokbin-oh-1028a019a/)
 
 
+## 학력
+- 가천대학교 컴퓨터공학과(2013 ~ 2019)
+
+## 단체경력
+- 삼성 청년 SW 아카데미 2기(2019 ~)
 
 
 ## 인턴경력
@@ -27,11 +32,8 @@
 - 네오위즈 (2018.06 ~ 2018.12) 
 - 소만사 (2019.02 ~ 2019.05)
 
-## 단체경력
-- 삼성 청년 SW 아카데미 2기(2019 ~)
 
-## 학력
-- 가천대학교 컴퓨터공학과(2013 ~ 2019)
+
 
 ## 프로젝트 경험
 - JAVA를 이용한 SafeFood 프로젝트 [시연 영상](https://www.youtube.com/watch?v=THgKJ4bbMeI)
