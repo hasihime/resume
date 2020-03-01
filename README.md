@@ -33,9 +33,13 @@
 
 ## 인턴경력
 
-- 네오위즈 (2018.06 ~ 2018.12) 
-- 소만사 (2019.02 ~ 2019.05)
+- 네오위즈 :보안팀(2018.06 ~ 2018.12)
+  - IDS(suricate), IPS(Tipping Point) 운용 
+  - IPS FOC 진행
+  - ISMS 심사 준비 클라우드 항목
 
+- 소만사 : RA팀(2019.02 ~ 2019.05)
+  - 보안 어플라이언스 생산
 
 ## 프로젝트 경험
 - JAVA를 이용한 SafeFood 프로젝트 [시연 영상](https://www.youtube.com/watch?v=THgKJ4bbMeI)
