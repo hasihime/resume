@@ -51,8 +51,8 @@
  
 
 ## 각종 IT 경험
+ - AWS를 이용한 서버 구축 [링크](https://github.com/hasihime/Ncloud)
  - 네이버 클라우드 사용 경험 [링크](https://github.com/hasihime/Ncloud)
- 
  - ELK 서버 구축
 
 ## 사용 기술
