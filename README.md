@@ -53,7 +53,7 @@
 ## 각종 IT 경험
  - AWS를 이용한 서버 구축 [링크](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/01_aws/aws.md)
  - 네이버 클라우드 사용 경험 [링크](https://github.com/hasihime/Ncloud)
- - ELK 서버 구축
+ - ELK 서버 구축 [링ㅋ](https://osb330.tistory.com/18?category=789618)
 
 ## 사용 기술
 ### Programming
