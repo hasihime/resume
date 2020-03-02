@@ -76,7 +76,7 @@
   - HTML
   - CSS3
   - JavaScript
-  - Jquery
+  - Vue.js
   
 ### Back-End	
   - 서버프로그래밍(Servlet,JSP,Session/Cookie)
@@ -85,16 +85,20 @@
 ### FrameWork	
   - Spring
   - Spring Boot
-  - MyBaris
-  - Micro Service
-  
+  - MyBatis
+
 ### DataBase
   - MYSQL
-  
+
+### Server
+  - AWS
+  - Firebase
+
+### OS
+  - Linux(CentOS, Ubuntu, Kail)
+  - Window Server 2012
 
 ### ETC
-- Linux(CentOS, Ubuntu)
-- AWS 
 - IDS : Suricata
 - 보안장비운용 : Tipping Point IPS 
 - 커뮤니케이션 - Slack 
