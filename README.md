@@ -104,6 +104,7 @@
 - 커뮤니케이션 - Slack 
 - 이슈관리 - Github / 
 - 버전관리 - Git/GitFlow
+- 부하테스트 - Jmeter
 
 ### algorithm
 
