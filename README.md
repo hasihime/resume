@@ -108,6 +108,8 @@
 - 부하테스트 - Jmeter
 
 ### algorithm
+알고 전용 repository - [이동](https://github.com/hasihime/Algo/blob/master/README.md)
+<img src="https://github.com/hasihime/Algo/blob/master/img/algo_0315.PNG">
 
 ### TODO
 현재는 아래것들을 익히고 있습니다.
