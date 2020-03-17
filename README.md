@@ -49,7 +49,8 @@
     - BackEnd DataBase인 MYSQL, 
     - Srping Boot를 이용한 RestContoller 사용
   
- - [Vue를 이용한 반응형 웹 프로젝트](./project/02VueProject/VueProjectDoc.md) [시연 영상](https://youtu.be/hYZudIsAwec)
+ - Vue를 이용한 반응형 웹 프로젝트 [시연 영상](https://youtu.be/hYZudIsAwec)
+    - [프로젝트 개요 및 정리 문서](./project/02VueProject/VueProjectDoc.md) 
     - 기간 : 2020.01 ~ 2020.02(6주)
     - 팀 기여도 : 25%
     - 나의 역할
