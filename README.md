@@ -63,60 +63,72 @@
  
 
 ## 각종 IT 경험
- - AWS를 이용한 서버 구축 [링크](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/01_aws/aws.md)
- - 네이버 클라우드 사용 경험 [링크](https://github.com/hasihime/Ncloud)
- - ELK 서버 구축 [링크](https://osb330.tistory.com/18?category=789618)
+
+- AWS를 이용한 서버 구축 [링크](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/01_aws/aws.md)
+- 네이버 클라우드 사용 경험 [링크](https://github.com/hasihime/Ncloud)
+- ELK 서버 구축 [링크](https://osb330.tistory.com/18?category=789618)
+- Blockchain 간단구현 [링크](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/02_Blockchain/readme.md)
 
 ## 사용 기술
+
 ### Programming
+
 - Java
 - Python
 - Bash
 
 ### WEB	Front	
-  - HTML
-  - CSS3
-  - JavaScript
-  - Vue.js
+
+- HTML
+- CSS3
+- JavaScript
+- Vue.js
   
 ### Back-End	
-  - 서버프로그래밍(Servlet,JSP,Session/Cookie)
-  - MVC 아키텍쳐
+
+- 서버프로그래밍(Servlet,JSP,Session/Cookie)
+- MVC 아키텍쳐
 
 ### FrameWork	
-  - Spring
-  - Spring Boot
-  - MyBatis
+
+- Spring
+- Spring Boot
+- MyBatis
 
 ### DataBase
-  - MYSQL
+
+- MYSQL
 
 ### Server
-  - AWS
-  - Firebase
+
+- AWS
+- Firebase
 
 ### OS
-  - Linux(CentOS, Ubuntu, Kail)
-  - Window Server 2012
+
+- Linux(CentOS, Ubuntu, Kail)
+- Window Server 2012
 
 ### ETC
+
 - IDS : Suricata
-- 보안장비운용 : Tipping Point IPS 
-- 커뮤니케이션 - Slack 
-- 이슈관리 - Github / 
+- 보안장비운용 : Tipping Point IPS
+- 커뮤니케이션 - Slack
+- 이슈관리 - Github, Jira
 - 버전관리 - Git/GitFlow
 - 부하테스트 - Jmeter
 
 ### algorithm
+
 알고 전용 repository - [이동](https://github.com/hasihime/Algo/blob/master/README.md)
 <img src="https://github.com/hasihime/Algo/blob/master/img/algo_0315.PNG">
 
 ### TODO
+
 현재는 아래것들을 익히고 있습니다.
+
 - BlockChain
   - Solidity
 - Clean Code 
 
 - DID(Decentralized Identification)  
- 
-

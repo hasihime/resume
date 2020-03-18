@@ -7,6 +7,9 @@
 ## [[한국어]](./README.md) [English]
 
 Stay Hungry, Stay Foolish
+
+<img src="./img/profile.jpg" width="300">
+
 ## About Me 
 
 - Last Name: Seok Bin
@@ -15,7 +18,7 @@ Stay Hungry, Stay Foolish
 ## Objective
 To be Full Stack Programmer.
 
-- Hobby : Jogging, Game, Writing Novel,  Trip, Reading a Book 
+- Hobby : Jogging, Game, Writing Novel,  Trip, Reading a Book
 - Email: osb330@naver.com
 - GitHub: [github.com/hasihime](https://github.com/hasihime)
 - LinkedIn: [https://www.linkedin.com/in/seokbin-oh-1028a019a/](https://www.linkedin.com/in/seokbin-oh-1028a019a/)
@@ -36,6 +39,7 @@ To be Full Stack Programmer.
 
 
 ## Project Experience
+
 - Create Diet Webpage Using JAVA [Demonstration](https://www.youtube.com/watch?v=THgKJ4bbMeI)
   - Duration : 2019.09~2019.11 (6 Weeks)
   - Contribution : 50%
@@ -43,7 +47,8 @@ To be Full Stack Programmer.
     - Front : HTML,CSS, Javascript
     - Backend : Spring Boot
 
- - Create Responsive Web Using Vue [Demonstration](./project/02VueProject/VueProjectDoc.md)
+ - Create Responsive Web Using Vue [Demonstration](https://youtu.be/hYZudIsAwec)
+   - [Summary](./project/02VueProject/VueProjectDoc.md) 
     - Duration : 2020.01 ~ 2020.02(6 Weeks)
     - Contribution : 25%
     - Technologies Used : 
@@ -52,9 +57,12 @@ To be Full Stack Programmer.
       - Server : Firebase, Amazon Web Service(AWS)
  
  
+### Other  IT Experience
+
  - Build Private Network using AWS [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/01_aws/aws.md)
  - Naver Cloud [Link](https://github.com/hasihime/Ncloud)
  - Build ELK Server [Link](https://osb330.tistory.com/18?category=789618)
+ - Build Simple BlockChain [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/02_Blockchain/readme.md)
 
 ## Personal Skill
 ### Programming
@@ -73,21 +81,32 @@ To be Full Stack Programmer.
   - Spring Boot
   - MyBatis
 
+### Server
+
+- AWS
+- Firebase
   
 ### DataBase
   - MYSQL
-  
+
+### OS
+
+- Linux(CentOS, Ubuntu, Kail)
+- Window Server 2012
 
 ### ETC
-- Linux(CentOS, Ubuntu)
-- AWS 
+
 - IDS : Suricata
 - IPS : Tipping Point IPS 
 - Communication : Slack 
 - Issue Tracking System : Github, Jira
 - Software Configuration Management : Git/GitFlow
+- Load Testing : JMeter
 
 ### algorithm
+
+Solving algorithm repository - [이동](https://github.com/hasihime/Algo/blob/master/README.md)
+
 
 ### TODO
 I'm Interasted in this Tech
