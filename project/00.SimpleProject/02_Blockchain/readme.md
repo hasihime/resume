@@ -23,9 +23,9 @@
 
 - 대표적인 해시 알고리즘은 md5, sha-1,sha-2,sha-3가 있다.
 
-## 결과 화면
+## 블록체인 구성도
 
-<img src="result.PNG">
+<img src="Blockchain_diagram.PNG">
 
 ## 코드 구현
 
@@ -177,3 +177,8 @@ public class Main {
 ```
 
 </details>
+
+
+## 결과 화면
+
+<img src="result.PNG">
