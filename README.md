@@ -64,6 +64,7 @@
 
 ## 각종 IT 경험
 
+- Suricata 사용법 정리 [링크](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/03_suricata/suricata.md)
 - AWS를 이용한 서버 구축 [링크](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/01_aws/aws.md)
 - 네이버 클라우드 사용 경험 [링크](https://github.com/hasihime/Ncloud)
 - ELK 서버 구축 [링크](https://osb330.tistory.com/18?category=789618)

@@ -59,10 +59,11 @@ To be Full Stack Programmer.
  
 ### Other  IT Experience
 
- - Build Private Network using AWS [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/01_aws/aws.md)
- - Naver Cloud [Link](https://github.com/hasihime/Ncloud)
- - Build ELK Server [Link](https://osb330.tistory.com/18?category=789618)
- - Build Simple BlockChain [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/02_Blockchain/readme.md)
+- How to use Suricata [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/03_suricata/suricata.md)
+- Build Private Network using AWS [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/01_aws/aws.md)
+- Naver Cloud [Link](https://github.com/hasihime/Ncloud)
+- Build ELK Server [Link](https://osb330.tistory.com/18?category=789618)
+- Build Simple BlockChain [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/02_Blockchain/readme.md)
 
 ## Personal Skill
 ### Programming
