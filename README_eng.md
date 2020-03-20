@@ -14,6 +14,7 @@ Stay Hungry, Stay Foolish
 
 - Last Name: Seok Bin
 - First Name : Oh
+- Position : Backend / Server Engineer
 
 ## Objective
 To be Full Stack Programmer.
