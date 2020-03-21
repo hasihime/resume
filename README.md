@@ -20,7 +20,7 @@
 - 취미 : 달리기, 리듬게임, 글쓰기, 여행, 독서
 - 관심있게 읽은 책 : 객체지향의 사실과 오해, 후니의 쉽게 쓴 시스코 네트워킹:시스코 전문가가 말하는 네트워크 따라잡기,고전부 시리즈
 
-- Email: osb330@naver.com
+- Email: osb330@naver.com 
 - GitHub: [github.com/hasihime](https://github.com/hasihime)
 - LinkedIn: [https://www.linkedin.com/in/seokbin-oh-1028a019a/](https://www.linkedin.com/in/seokbin-oh-1028a019a/)
 
