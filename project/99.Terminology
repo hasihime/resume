@@ -1,6 +1,0 @@
-
-## 보안 용어
-- 크리덴셜 스터핑 (Credential Stuffing)
-
-공격자가 여러 가지의 경로로 수집한 사용자들의 로그인 인증 정보(Credential)를 다른 사이트의 계정 정보에 마구 대입(Stuffing)하는 공격 방식
-[참고](https://blog.alyac.co.kr/2699)
