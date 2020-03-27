@@ -8,7 +8,7 @@
 ## [한국어] [[English]](./README_eng.md)
 
 
-<img src="./img/profile.jpg" width="300"> 
+<img src="./img/profile.jpg" width="300">
 
 ## 자기소개 
 - 이름: 오석빈 
