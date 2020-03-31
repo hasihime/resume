@@ -61,6 +61,7 @@
       - Spring Boot를 이용한 Rest Controller 작성
       - Vue를 이용하여 반응형 웹 제작 
  
+- 파이썬을 이용한 빅데이터 프로젝트 [시연 영상]()
  
 
 ## 각종 IT 경험
@@ -119,6 +120,7 @@
 - 이슈관리 - Github, Jira
 - 버전관리 - Git/GitFlow
 - 부하테스트 - Jmeter
+- 온라인회의 - Zoom
 
 ### algorithm
 
