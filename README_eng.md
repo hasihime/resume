@@ -43,6 +43,7 @@ To be Full Stack Programmer.
 
 - Create Diet Webpage Using JAVA [Demonstration](https://www.youtube.com/watch?v=THgKJ4bbMeI)
   - Duration : 2019.09~2019.11 (6 Weeks)
+  - result : win second prize in SSAFY
   - Contribution : 50%
   - Technologies Used : 
     - Front : HTML,CSS, Javascript
@@ -65,6 +66,8 @@ To be Full Stack Programmer.
 - Naver Cloud [Link](https://github.com/hasihime/Ncloud)
 - Build ELK Server [Link](https://osb330.tistory.com/18?category=789618)
 - Build Simple BlockChain [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/02_Blockchain/readme.md)
+- Load Testing by Using JMeter [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/04_JMeter/Jmeter.md)
+
 
 ## Personal Skill
 ### Programming
