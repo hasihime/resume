@@ -74,7 +74,7 @@
 - ELK 서버 구축 [링크](https://osb330.tistory.com/18?category=789618)
 - Blockchain 간단구현 [링크](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/02_Blockchain/readme.md)
 - Jmeter를 이용한 부하테스트 [링크](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/04_JMeter/Jmeter.md)
-- 얼굴 인식 
+- Brightics를 이용한 데이터 분석 [링크](https://github.com/hasihime/resume/blob/master/project/03.Brightics/Brightics.md)
 
 ## 사용 기술
 

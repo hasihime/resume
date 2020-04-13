@@ -67,7 +67,7 @@ To be Full Stack Programmer.
 - Build ELK Server [Link](https://osb330.tistory.com/18?category=789618)
 - Build Simple BlockChain [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/02_Blockchain/readme.md)
 - Load Testing by Using JMeter [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/04_JMeter/Jmeter.md)
-
+- Data analytic by Using Brightics [링크](https://github.com/hasihime/resume/blob/master/project/03.Brightics/Brightics.md)
 
 ## Personal Skill
 ### Programming
