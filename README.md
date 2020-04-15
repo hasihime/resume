@@ -57,7 +57,7 @@
     - 나의 역할
       - AWS 서버 구축. Firebase와 AWS 연동.
       - AWS 서버에 올라간 Spring Controller https로 통신하게 함(사설키 인증)
-      - Mixedt content 에러 해결을 위한 cors 설정 
+      - Mixed content 에러 해결을 위한 cors 설정 
       - Spring Boot를 이용한 Rest Controller 작성
       - Vue를 이용하여 반응형 웹 제작 
  
