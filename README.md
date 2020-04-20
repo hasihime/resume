@@ -76,6 +76,13 @@
 - Jmeter를 이용한 부하테스트 [링크](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/04_JMeter/Jmeter.md)
 - Brightics를 이용한 데이터 분석 [링크](https://github.com/hasihime/resume/blob/master/project/03.Brightics/Brightics.md)
 
+## IT 컨퍼런스 참석 경험
+
+- 2019.11.14 Samsung SDS Techtonic 
+- 2019.09.25 AWS Re:cruit 2019 Networking Night
+- 2019.05.21 Unite Souel 2019
+- 2019.08.30 ISEC 2018
+
 ## 사용 기술
 
 ### Programming
