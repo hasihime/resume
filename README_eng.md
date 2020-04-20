@@ -69,6 +69,13 @@ To be Full Stack Programmer.
 - Load Testing by Using JMeter [Link](https://github.com/hasihime/resume/blob/master/project/00.SimpleProject/04_JMeter/Jmeter.md)
 - Data analytic by Using Brightics [링크](https://github.com/hasihime/resume/blob/master/project/03.Brightics/Brightics.md)
 
+### Attending IT Conference Experience
+
+- 2019.11.14 Samsung SDS Techtonic 
+- 2019.09.25 AWS Re:cruit 2019 Networking Night
+- 2019.05.21 Unite Souel 2019
+- 2019.08.30 ISEC 2018
+
 ## Personal Skill
 ### Programming
 - Java
