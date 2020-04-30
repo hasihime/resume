@@ -5,7 +5,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/hasihime/resume.svg)
 ![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg) 
 
-## [한국어] [[English]](./README_eng.md) 
+## [한국어] [[English]](./README_eng.md)
  
 
 <img src="./img/profile.jpg" width="300">
@@ -15,7 +15,7 @@
  - 
  - 백엔드/서버엔지니어 
 
-모든 물이 바다에 모이는 이유는 바다가 가장 낮기 때문이다. 바다같은 사람이 되자.
+모든 물이 바다에 모이는 이유는 바다가 가장 낮기 때문이다. 바다같은 사람이 되자. 겸손하고 낮은자세를 유지하자.
 
 죽기 전에 내가 꼭 가보고 싶은 곳들, 경험해보고 싶은 일들, 그것들을 꾸준히 해보자. 
 하나씩 하나씩. 이것저것 너무 고민하지 말고. 
