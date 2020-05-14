@@ -152,5 +152,5 @@
 - BlockChain
   - Solidity
 - Clean Code 
- 
+- SPA
 - DID(Decentralized Identification)  
