@@ -70,7 +70,7 @@
   - 나의 역할
     - Python의 Pandas를 이용한 데이터 분석
     - Django를 통한 Rest Controller 제작
-    - TDIDF를 이용한 추천 알고리즘 
+    - TDIDF를 이용한 추천 알고리즘 작성
  
 
 ## 각종 IT 경험
