@@ -3,7 +3,7 @@
 
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![HitCount](http://hits.dwyl.io//hasihime/resume.svg)](http://hits.dwyl.io/hasihime/resume)
 ![GitHub last commit](https://img.shields.io/github/last-commit/hasihime/resume.svg)
-![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg) 
+![status](https://img.shields.io/badge/status-offer_welcome%20-brightgreen.svg)
 
 ## [한국어] [[English]](./README_eng.md)
  
@@ -25,6 +25,7 @@
 - Email: osb330@naver.com 
 - GitHub: [github.com/hasihime](https://github.com/hasihime)
 - LinkedIn: [https://www.linkedin.com/in/seokbin-oh-1028a019a/](https://www.linkedin.com/in/seokbin-oh-1028a019a/)
+- Techlog : [https://hasihime.github.io/hasi-techlog/](https://hasihime.github.io/hasi-techlog/)
 
 
 ## 학력
