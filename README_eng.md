@@ -30,13 +30,17 @@ To be Full Stack Programmer.
   - Major : Computer Science()
 
 ## Professional Experience
-- Samsung Software Academy For Youth(SSAFY), 2019 ~
+- Samsung Software Academy For Youth(SSAFY), 2019 ~ 2020
 
 ## Internship Experience
-- NeoWiz (2018.06 ~ 2018.12) 
-  - security Department
+
+- KaKao (2020.07 ~)
+  - ?
 - Somansa (2019.02 ~ 2019.05)
   - security Department
+- NeoWiz (2018.06 ~ 2018.12) 
+  - security Department
+
 
 
 ## Project Experience
