@@ -149,7 +149,7 @@
 - 이슈관리 - Github, Jira
 - 버전관리 - Git/GitFlow
 - 부하테스트 - Jmeter
-- 온라인회의 - Zoom
+- 온라인회의 - Zoom / Webex
 
 ### algorithm
 
