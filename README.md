@@ -77,7 +77,7 @@
     - Django를 통한 Rest Controller 제작
     - TDIDF를 이용한 추천 알고리즘 작성
  
-  - 약도-슬기로운 약국생활 [시연 영상]()
+  - 약도-슬기로운 약국생활 [시연 영상]
     - [프로젝트 개요 및 정리 문서](https://github.com/hasihime/resume/blob/master/project/02.VueProject/VueProjectDoc.md) 
     - 기간 : 2020.04 ~ 2020.06(8주)
     - 팀 기여도 : 25%
