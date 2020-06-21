@@ -130,6 +130,7 @@
 ### DataBase
 
 - MYSQL
+- SQLITE
 
 ### Server
 
