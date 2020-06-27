@@ -44,7 +44,7 @@
 - 네오위즈 :보안팀(2018.06 ~ 2018.12)
   - IDS(suricata), IPS(Tipping Point) 운용 
   - IPS FOC 진행
-  - ISMS 심사 준비 클라우드 항목
+  - ISMS 심사 준비(클라우드)
 
 
 
