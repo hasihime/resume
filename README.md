@@ -167,4 +167,4 @@
 - SPA
 - DID(Decentralized Identification)  
 - Git Flow
-- 
+- Automation for jira
