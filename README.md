@@ -149,7 +149,7 @@
 - IDS : Suricata
 - 보안장비운용 : Tipping Point IPS
 - 커뮤니케이션 - Slack
-- 이슈관리 - Github, Jira
+- 협업툴 - Jira, Automation for jira
 - 버전관리 - Git/GitFlow
 - 부하테스트 - Jmeter
 - 온라인회의 - Zoom / Webex
@@ -167,6 +167,5 @@
   - Solidity
 - Clean Code 
 - SPA
-- DID(Decentralized Identification)  
-- Git Flow
-- Automation for jira
+ 
+
