@@ -154,18 +154,21 @@
 - 부하테스트 - Jmeter
 - 온라인회의 - Zoom / Webex
 
+## TODO
+
+현재는 이 기술의 초점을 맞춰 전문성을 쌓고 있습니다.
+
+- Rest API
+  - 완벽한 REST API를 구축하기 위해 프로젝트 진행중입니다.
+- DDD Modeling
+- JPA
+
+
 ### algorithm
 
 알고 전용 repository - [이동](https://github.com/hasihime/Algo/blob/master/README.md)
 <img src="https://github.com/hasihime/Algo/blob/master/img/algo_0315.PNG">
 
-### TODO
 
-현재는 아래것들을 익히고 있습니다.
-
-- BlockChain
-  - Solidity
-- Clean Code 
-- SPA
  
 
