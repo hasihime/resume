@@ -51,6 +51,12 @@
 
 
 ## 프로젝트 경험
+### 현재 진행 프로젝트
+- 주식 과거 이력에서 이득 계산해서 알려주는 챗봇 개발하기
+ - [프로젝트 개요 및 정리 문서](https://github.com/hasihime/GetStiockProfit/edit/develop/README.md) 
+ - 기간 : 2020-12
+ 
+### 프로젝트 이력
 - JAVA를 이용한 SafeFood 프로젝트 [시연 영상](https://www.youtube.com/watch?v=THgKJ4bbMeI)
   - 기간 : 2019.07~2019.11
   - 팀 기여도 : 50%
@@ -111,17 +117,10 @@
 - Python
 - Bash
 
-### WEB	Front	
-
-- HTML
-- CSS3
-- JavaScript
-- Vue.js
-  
 ### Back-End	
 
 - 서버프로그래밍(Servlet,JSP,Session/Cookie)
-- MVC 아키텍쳐
+- REST
 
 ### FrameWork	
 
@@ -132,7 +131,6 @@
 ### DataBase
 
 - MYSQL
-- SQLITE
 
 ### Server
 
@@ -152,7 +150,6 @@
 - 협업툴 - Jira, Automation for jira
 - 버전관리 - Git/GitFlow
 - 부하테스트 - Jmeter
-- 온라인회의 - Zoom / Webex
 
 ## TODO
 
