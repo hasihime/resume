@@ -56,6 +56,7 @@
  - [프로젝트 개요 및 정리 문서](https://github.com/hasihime/GetStiockProfit/edit/develop/README.md) 
  - 기간 : 2020-12
  
+ 
 ### 프로젝트 이력
 - JAVA를 이용한 SafeFood 프로젝트 [시연 영상](https://www.youtube.com/watch?v=THgKJ4bbMeI)
   - 기간 : 2019.07~2019.11
@@ -85,7 +86,7 @@
     - Django를 통한 Rest Controller 제작
     - TDIDF를 이용한 추천 알고리즘 작성
  
-  - 약도-슬기로운 약국생활 [시연 영상]
+ - 약도-슬기로운 약국생활 [시연 영상]
     - [프로젝트 개요 및 정리 문서](https://github.com/hasihime/resume/blob/master/project/02.VueProject/VueProjectDoc.md) 
     - 기간 : 2020.04 ~ 2020.06(8주)
     - 팀 기여도 : 25%
