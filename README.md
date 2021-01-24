@@ -51,10 +51,11 @@
 
 
 ## 프로젝트 경험
-### 현재 진행 프로젝트
-- 주식 과거 이력에서 이득 계산해서 알려주는 챗봇 개발하기
+### 최근 진행 프로젝트
+- GSP(Get Stock Profit) 챗봇 서비스
  - [프로젝트 개요 및 정리 문서](https://github.com/hasihime/GetStiockProfit/edit/develop/README.md) 
- - 기간 : 2020-12
+ - 기간 : 2020.12~2021.01
+ - 목표 : GitHubAction을 이용한 자동 CI/CD 환경기반의 서비스 제작 
  
  
 ### 프로젝트 이력
